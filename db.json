@@ -1,0 +1,98 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "TODO Redux"
+    },
+    {
+      "id": 2,
+      "title": "TODO Layout"
+    },
+    {
+      "id": 3,
+      "title": "Diana the best"
+    },
+    {
+      "id": 4,
+      "title": "Final"
+    }
+  ],
+  "todoItems": [
+    {
+      "id": 1,
+      "title": "Create Store",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "completed": true,
+      "createdAt": "2022-04-25T01:50:57.131Z",
+      "todoId": 1
+    },
+    {
+      "id": 2,
+      "title": "Create Reducer",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "completed": false,
+      "createdAt": "2022-04-25T01:50:57.131Z",
+      "todoId": 1
+    },
+    {
+      "id": 3,
+      "title": "Create Actions",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "completed": false,
+      "createdAt": "2022-04-25T01:50:57.131Z",
+      "todoId": 1
+    },
+    {
+      "id": 4,
+      "title": "Create Navbar",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "completed": false,
+      "createdAt": "2022-04-25T01:50:57.131Z",
+      "todoId": 2
+    },
+    {
+      "id": 5,
+      "title": "Create TodoList",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "completed": true,
+      "createdAt": "2022-04-25T01:50:57.131Z",
+      "todoId": 2
+    },
+    {
+      "id": 22,
+      "createdAt": "2022-04-25T22:22:52.167Z",
+      "completed": true,
+      "title": "I Can't belive",
+      "deadline": null,
+      "description": "Congratulate Me 🤗",
+      "todoId": 4
+    },
+    {
+      "id": 23,
+      "createdAt": "2022-04-25T22:23:39.956Z",
+      "completed": false,
+      "title": "Handle errors 👽",
+      "deadline": null,
+      "description": "",
+      "todoId": 2
+    },
+    {
+      "id": 24,
+      "createdAt": "2022-04-25T22:24:25.922Z",
+      "completed": false,
+      "title": "End school 🎓",
+      "deadline": "2022-06-29T22:23:46.000Z",
+      "description": "",
+      "todoId": 3
+    },
+    {
+      "id": 25,
+      "createdAt": "2022-04-25T22:25:21.944Z",
+      "completed": true,
+      "title": "Yeah 😣",
+      "deadline": null,
+      "description": "",
+      "todoId": 4
+    }
+  ]
+}
